@@ -13,7 +13,7 @@ Database architecture & optimization
 System design patterns
 Writing maintainable code
 
-##💾 My Toolbox
+## 💾 My Toolbox
 
 🔤 Programming Languages
 
