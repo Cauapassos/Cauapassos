@@ -1,8 +1,5 @@
 ## 👋 Hey! I'm Cauã Passos
 
-## *"Genius, billionaire, playboy, philanthropist."* — Nah, just a backend engineer in the making.
-
-
 🎓 4th semester CS student @ UVV
 
 💻 Aspiring backend engineer
