@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
-
 ## 👋 Hey! I'm Cauã Passos
 
 ## *"Genius, billionaire, playboy, philanthropist."* — Nah, just a backend engineer in the making.
