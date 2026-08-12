@@ -52,3 +52,4 @@ Currently studying Spring Boot with a focus on REST API development, database in
 ✉️ cauapassos470@gmail.com
 📲 +55 (27) 99938-1731
 
+<img src="https://raw.githubusercontent.com/Cauapassos/Cauapassos/snake-output/snake.svg" alt="Snake animation">
